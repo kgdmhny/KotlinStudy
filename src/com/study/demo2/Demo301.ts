@@ -1,3 +1,0 @@
-fddk
-ldfld
-ld]
